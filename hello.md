@@ -10,3 +10,4 @@ version2
 # GIT 노트북 설정체크 
 
 - 재확인
+- Chang
