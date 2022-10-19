@@ -1,3 +1,3 @@
 # hello-world
-git 및 github 테스트용
-상태값 변경
+
+- git 및 github 테스트 세팅체크
